@@ -1,0 +1,9 @@
+This program is written in python language, it includes:
+
+1. decryptor.py
+2. encryptor.py 
+3. frequency.py
+4. hill_climbing.py
+5. main.py
+
+main.py is to run both encyption and decryption functions. For decryption two methods are implemented: by frequency method and by hill_climbing method.
